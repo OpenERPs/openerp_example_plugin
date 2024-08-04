@@ -1,0 +1,2 @@
+include README.md
+include openerp_example_plugin/requirements.txt
